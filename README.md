@@ -1,4 +1,4 @@
-# -
+# 自动化生产平台管理
 项目架构：
 asp.net +.net 6.0+ MVVC+UI框架：WPF+LiveCharts+仿真ModbusSlave协议通讯
 
